@@ -13,6 +13,17 @@
 - [How a quantum computer could break 2048-bit RSA encryption in 8 hours](https://www.technologyreview.com/2019/05/30/65724/how-a-quantum-computer-could-break-2048-bit-rsa-encryption-in-8-hours/)
 - [Online security, cryptography, and quantum computing , and quantum computing](https://digitalcommons.csbsju.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1118&context=forum_lectures)
 
+## Why the (Bitcoin) Blockchain is safe (at least for now)
+
+- [Bitcoin encryption is safe from quantum computers – for now](https://physicsworld.com/a/bitcoin-encryption-is-safe-from-quantum-computers-for-now/)
+
+- [Quantum computers are a million times too small to hack bitcoin](https://www.newscientist.com/article/2305646-quantum-computers-are-a-million-times-too-small-to-hack-bitcoin/)
+
+## Post-Quantum Blockchain
+
+- [Towards Post-Quantum Blockchain: A Review on Blockchain Cryptography Resistant to Quantum Computing Attacks](https://ieeexplore.ieee.org/abstract/document/8967098)
+- [A Secure Cryptocurrency Scheme Based on Post-Quantum Blockchain](https://ieeexplore.ieee.org/abstract/document/8340794)
+
 ## QRL
 
 - [QRL Website](https://www.theqrl.org/)
