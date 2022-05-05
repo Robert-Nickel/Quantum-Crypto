@@ -23,6 +23,7 @@
 
 - [Towards Post-Quantum Blockchain: A Review on Blockchain Cryptography Resistant to Quantum Computing Attacks](https://ieeexplore.ieee.org/abstract/document/8967098)
 - [A Secure Cryptocurrency Scheme Based on Post-Quantum Blockchain](https://ieeexplore.ieee.org/abstract/document/8340794)
+- [Making Bitcoin Quantum Resistant](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Dragos-Ilie-Making-Bitcoin-Quantum-Resistant-(Iain-Steward-and-the-Centre-for-Cryptcurrency-Research-and-Engineering).pdf)
 
 ## QRL
 
