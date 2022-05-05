@@ -9,6 +9,7 @@
 
 ## Problem
 - [Quantum Advantage on Proof of Work](https://arxiv.org/pdf/2105.01821.pdf)
+- [Quantum Solutions to possible challenges of blockchain](https://www.researchgate.net/publication/355223429_Quantum_solutions_to_possible_challenges_of_Blockchain_technology) (Enthält neben Lösungen auch die Probleme inkl. genutzter Algorithmen etc)
 
 ## Solutions
 - [Towards Post-Quantum Blockchain: A Review on Blockchain Cryptography Resistant to Quantum Computing Attacks](https://ieeexplore.ieee.org/abstract/document/8967098)
@@ -16,6 +17,7 @@
 - [Making Bitcoin Quantum Resistant](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Dragos-Ilie-Making-Bitcoin-Quantum-Resistant-(Iain-Steward-and-the-Centre-for-Cryptcurrency-Research-and-Engineering).pdf)
 - [QRL Website](https://www.theqrl.org/)
 - [Quantum supremacy and the case for quantum security today in blockchain](https://medium.com/the-quantum-resistant-ledger/quantum-supremacy-and-the-case-for-quantum-security-today-in-blockchain-390fe55daab5)
+- [Quantum Solutions to possible challenges of blockchain](https://www.researchgate.net/publication/355223429_Quantum_solutions_to_possible_challenges_of_Blockchain_technology)
 
 ## Conclusion
 - [How many qubits are needed to factor 2048-bit RSA keys on a quantum computer?](https://security.stackexchange.com/questions/87345/how-many-qubits-are-needed-to-factor-2048-bit-rsa-keys-on-a-quantum-computer)
