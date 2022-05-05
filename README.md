@@ -6,6 +6,7 @@
 - [Quantum Computing Now: Quantum-safe Encryption](https://open.spotify.com/episode/7kUzUSY6zkqCVn9C8pC3mq?si=50d9160c605a4872)
 
 ## Basics
+- [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 ## Problem
 - [Quantum Advantage on Proof of Work](https://arxiv.org/pdf/2105.01821.pdf)
