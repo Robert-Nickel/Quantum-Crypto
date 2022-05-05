@@ -10,6 +10,7 @@
 ## Problem
 - [Quantum Advantage on Proof of Work](https://arxiv.org/pdf/2105.01821.pdf)
 - [Quantum Solutions to possible challenges of blockchain](https://www.researchgate.net/publication/355223429_Quantum_solutions_to_possible_challenges_of_Blockchain_technology) (Enthält neben Lösungen auch die Probleme inkl. genutzter Algorithmen etc)
+- [Making Bitcoin Quantum Resitant](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Dragos-Ilie-Making-Bitcoin-Quantum-Resistant-(Iain-Steward-and-the-Centre-for-Cryptcurrency-Research-and-Engineering).pdf) (Enthält auch Probleme 51% Attack, Public Key Unveiling, Live Transaction Hijacking)
 
 ## Solutions
 - [Towards Post-Quantum Blockchain: A Review on Blockchain Cryptography Resistant to Quantum Computing Attacks](https://ieeexplore.ieee.org/abstract/document/8967098)
